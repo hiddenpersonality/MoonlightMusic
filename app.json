@@ -1,6 +1,6 @@
 {
     "name": "𝐌𝐎𝐎𝐍𝐋𝐈𝐆𝐇𝐓 𝐌𝐔𝐒𝐈𝐂
-",
+"
     "description": "A VC Player Bot for telegram videochats, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://graph.org/file/cb5519c82f7a207ab2a40.jpg",
     "keywords": [
