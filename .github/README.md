@@ -9,7 +9,8 @@
   <img src="https://graph.org/file/75f5ef6999e79aabcccea.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ](t.me/moonlightXmusic_bot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝐌𝐎𝐎𝐍𝐋𝐈𝐆𝐇𝐓 𝐌𝐔𝐒𝐈𝐂
+](t.me/moonlightXmusic_bot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
@@ -24,7 +25,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ 
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://te.legra.ph/file/8a38f66826c2ea5e97724.jpg">
+  <img src="https://graph.org/file/75f5ef6999e79aabcccea.jpg">
 </p>
 
 <p align="center">
@@ -69,7 +70,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://te.legra.ph/file/b09cdfe8fb553fdd976eb.jpg">
+  <img src="https://graph.org/file/75f5ef6999e79aabcccea.jpg">
 </p>
 
 </details>
