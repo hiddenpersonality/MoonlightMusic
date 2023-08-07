@@ -90,10 +90,7 @@ Press `Ctrl+b` and then `d`
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
-</h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/AnonymousX1025/FallenMusic) </b>
-- <b(https://github.com/pytgcalls/pytgcalls) </b>
 
 ━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━
